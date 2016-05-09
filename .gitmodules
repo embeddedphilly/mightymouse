@@ -1,0 +1,3 @@
+[submodule "lib/libavr"]
+	path = lib/libavr
+	url = ssh://gerrit.bulogics.com:29418/bulogics/libavr
